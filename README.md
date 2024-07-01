@@ -1,1 +1,1 @@
-# Ejercicios11-12
+# Resolución de los ejercicios 11 y 12
